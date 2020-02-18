@@ -25,3 +25,5 @@ imie = ConsoleReadLine();
 ```
 
 ### naglowek 2.2
+
+Strona [WSEI](http://wsei.edu.pl)
