@@ -21,7 +21,7 @@ podsatwowym typem jest `string` oraz `int`.
 
 ```csharp
 console.WriteLine("podaj imie");
-imie = ConsoleReadLine();
+imie = Console.ReadLine();
 ```
 
 ### naglowek 2.2
