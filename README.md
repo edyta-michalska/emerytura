@@ -17,4 +17,11 @@ aaaaaaaaaaaaaaaaaaaaaaaaa
 * ccc
 ### naglowek 2.1
 
+podsatwowym typem jest `string` oraz `int`.
+
+```csharp
+console.WriteLine("podaj imie");
+imie = ConsoleReadLine();
+```
+
 ### naglowek 2.2
