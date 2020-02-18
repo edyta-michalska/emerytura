@@ -20,7 +20,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaa
 podsatwowym typem jest `string` oraz `int`.
 
 ```csharp
-console.WriteLine("podaj imie");
+Console.WriteLine("podaj imie");
 imie = Console.ReadLine();
 ```
 
