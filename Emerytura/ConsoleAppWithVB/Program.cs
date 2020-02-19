@@ -42,17 +42,20 @@ namespace ConsoleAppWithVB
             string s = Interaction.InputBox("podaj wiek", "tytuł okienka");
             wiek = int.Parse(s); //funkcja int.parse konwertuje na liczbę ale musimy chceć przekonwertować tekst 50 na liczbę 50
 
-            Console.WriteLine($"Masz { wiek} lat");
+            //Console.WriteLine($"Masz { wiek} lat");
 
             //jezeli wiek > 67 to jestes emerytem
             //a w przeciwnym przypadku do emerytury zostalo ci 67-wiek lat
             if (wiek >= 67)
             {
-                Console.WriteLine("jestes emerytem");
+                //Console.WriteLine("jestes emerytem");
+                Interaction.MsgBox($"masz {wiek} lat.jestes emerytem");
             }
             else
             {
-                Console.WriteLine($"do emerytury zostało ci {67 - wiek} lat");
+                //Console.WriteLine("do emerytury zostało ci {67 - wiek} lat");
+                Interaction.MsgBox($"masz {wiek} lat. do emerytury zostalo ci {67 - wiek} lat");
+
 
 
             }

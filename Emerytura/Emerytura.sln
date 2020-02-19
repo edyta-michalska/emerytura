@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInteraktywnie", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppWithVB", "ConsoleAppWithVB\ConsoleAppWithVB.csproj", "{B255327C-4415-438D-A2B1-4623387525C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCoreWsadowo", "ConsoleAppCoreWsadowo\ConsoleAppCoreWsadowo.csproj", "{C5689F19-55C3-4397-AB95-4859475B12AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{FB3D3642-7B03-430D-9DA7-C0B0D3A06822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B255327C-4415-438D-A2B1-4623387525C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B255327C-4415-438D-A2B1-4623387525C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B255327C-4415-438D-A2B1-4623387525C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5689F19-55C3-4397-AB95-4859475B12AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5689F19-55C3-4397-AB95-4859475B12AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5689F19-55C3-4397-AB95-4859475B12AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5689F19-55C3-4397-AB95-4859475B12AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3D3642-7B03-430D-9DA7-C0B0D3A06822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3D3642-7B03-430D-9DA7-C0B0D3A06822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3D3642-7B03-430D-9DA7-C0B0D3A06822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3D3642-7B03-430D-9DA7-C0B0D3A06822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
